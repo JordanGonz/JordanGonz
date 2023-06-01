@@ -3,7 +3,8 @@
 ### 💬 Entrando al mundo de la programación
 ### 👯 ingieneria de Software
 
-![image](https://github.com/JordanGonz/JordanGonz/assets/112443640/7a6bfaab-e307-40ed-9171-6c3092ff19b1)
+![image](https://github.com/JordanGonz/JordanGonz/assets/112443640/89c65085-0526-4f7e-ab14-9edb8249036b)
+
 
 ⚡Es un gusto conocerlos
 
