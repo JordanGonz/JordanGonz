@@ -7,3 +7,4 @@
 
 ⚡Es un gusto conocerlos
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JordanGonz&theme=dark)](https://git.io/streak-stats)
