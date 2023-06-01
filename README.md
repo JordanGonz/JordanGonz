@@ -8,4 +8,4 @@
 
 ⚡Es un gusto conocerlos
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JordanGonz&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JordanGonz&theme=dark&hide_border=true&card_width=492&hide_longest_streak=true)](https://git.io/streak-stats)
