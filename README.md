@@ -1,5 +1,9 @@
 # console.log('Hello World 🙂')
-### Hola, soy Jordan 👋
+
+```bash
+### Hola, soy Jordan 
+```
+###  👋
 ### 💬 Entrando al mundo de la programación
 ### 👯 ingieneria de Software
 
