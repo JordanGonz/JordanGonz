@@ -3,8 +3,6 @@
 ```bash
 ### Hola, soy Jordan 
 ```
-###  👋
-### 💬 Entrando al mundo de la programación
 ### 👯 ingieneria de Software
 
 ![image](https://github.com/JordanGonz/JordanGonz/assets/112443640/89c65085-0526-4f7e-ab14-9edb8249036b)
