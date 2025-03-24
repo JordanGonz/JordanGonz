@@ -9,7 +9,7 @@
 <a href="https://open.spotify.com/playlist/JordanGonz" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 ### 💻​ Ingeniro de Software
 
-![image](https://github.com/JordanGonz/JordanGonz/assets/112443640/89c65085-0526-4f7e-ab14-9edb8249036b)
+<img align="center" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
 
 
 ⚡Un gusto conocerlos
