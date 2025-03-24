@@ -44,7 +44,7 @@
   <img align="left" alt="Laravel" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
 </a>
 
-<p></p>
+<br></br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JordanGonz&theme=dark&hide_border=true&card_width=492&hide_longest_streak=true)](https://git.io/streak-stats)
 
