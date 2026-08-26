@@ -46,8 +46,3 @@
 
 <br></br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JordanGonz&theme=dark&hide_border=true&card_width=492&hide_longest_streak=true)](https://git.io/streak-stats)
-
-
-![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=JordanGonz&count_private=true&show_icons=true&include_all_commits=true )
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JordanGonz&hide=TeX&layout=compact)
